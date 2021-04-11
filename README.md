@@ -1,8 +1,8 @@
-# noboring.email
+# NoBoring.email
 
 NoBoring.Email - Send real paper postcards to your friends via the internet (University Project)
 
-With NoBoring.email you can design and write a postcard online. Our websites renders your text to to a handwritten font, prints, and sends the postcard for you. This way, you can send real postcards to your friends and family with minimal time investment. 
+With NoBoring.email you can design and write a postcard online. Our website renders your text to a handwritten font, prints, and sends the postcard for you. This way, you can send real postcards to your friends and family with minimal time investment. 
 
 Tools used: Reacts JS, MongoDB
 
@@ -51,11 +51,11 @@ mongoimport --db noboringemaildb --collection printeries --file backend/dump_jso
 
 <p align="center"><img src="media/Select image for postcard.jpg"\></p>
 
-### Adjust design
+### Adjust your design
 
 <p align="center"><img src="media/confirm design.jpg"\></p>
 
-### Write and render postcard
+### Write and render your postcard
 
 <p align="center"><img src="media/write postcard.jpg"\></p>
 
