@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"noboringemaildb.printeries"},{"v":2,"key":{"lnglat":"2dsphere"},"name":"lnglat_2dsphere","ns":"noboringemaildb.printeries","background":true,"2dsphereIndexVersion":3}],"uuid":"f578485b8f6b4046877e1fac331eab64"}
