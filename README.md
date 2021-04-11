@@ -8,7 +8,7 @@ Tools used: Reacts JS, MongoDB
 
 ## Demo 
 
-<p align="center"><img src="media/write postcard.jpg"\></p>
+<p align="center"><img src="media/write postcard.bmp"\></p>
 
 ## Installation
 Use `npm start` for the frontend and `node index.js` for the backend.
